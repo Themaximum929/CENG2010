@@ -7,4 +7,6 @@ Lab 2: 100 \
 Lab 3: 95 \
 Lab 4: 100 \
 Lab 5: 80 \
-Overall: A-
+Overall: A- \
+
+Software used: Xilinx Vivado 
